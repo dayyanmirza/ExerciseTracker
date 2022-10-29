@@ -1,0 +1,18 @@
+ Full Stack:
+1) Front end --> Web --> i.e. React.js
+2) Backend --> Server --> i.e. Express.js, Node js
+3) An Api message passing layer for Server and Web.
+5) Database --> i.e. MongoDB.
+
+Do project in Javascript. Use Typescript.
+Front end --> React 
+Backend --> Node.js, Express.js
+
+Use the MERN Stack. https://www.mongodb.com/mern-stack , https://www.mongodb.com/languages/mern-stack-tutorial
+
+For the message padding API layer start of with the REST.API
+
+Database --> Use MongoDB.
+
+See if you can setup backend and database in some cloud provider i.e. AWS, Azure, Google Cloud.
+
