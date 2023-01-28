@@ -10,9 +10,8 @@ Backend --> Node.js, Express.js
 
 Use the MERN Stack. https://www.mongodb.com/mern-stack , https://www.mongodb.com/languages/mern-stack-tutorial
 
-For the message padding API layer start of with the REST.API
+For the message padding API layer start of with the RST.API
 
 Database --> Use MongoDB.
 
 See if you can setup backend and database in some cloud provider i.e. AWS, Azure, Google Cloud.
-
